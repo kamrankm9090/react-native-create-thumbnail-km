@@ -1,6 +1,6 @@
 {
-  "name": "@kamran.km90/react-native-create-thumbnail",
-  "title": "React Native Create Thumbnail-km",
+  "name": "react-native-create-thumbnail-kamran",
+  "title": "React Native Create Thumbnail-kamran",
   "version": "1.6.4",
   "description": "iOS/Android thumbnail generator with support for both local and remote videos",
   "main": "index.js",

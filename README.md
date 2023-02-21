@@ -10,13 +10,13 @@ iOS/Android thumbnail generator with storage/cache management and support for bo
 1. Install library from `npm`
 
    ```bash
-   npm i react-native-create-thumbnail
+   npm i react-native-create-thumbnail-kamran
    ```
 
    or
 
    ```bash
-   yarn add react-native-create-thumbnail
+   yarn add react-native-create-thumbnail-kamran
    ```
 
 2. Link native code

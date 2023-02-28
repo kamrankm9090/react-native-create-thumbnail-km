@@ -36,7 +36,7 @@ iOS/Android thumbnail generator with storage/cache management and support for bo
 ## Usage
 
 ```javascript
-import { createThumbnail } from "react-native-create-thumbnail";
+import { createThumbnail } from "react-native-create-thumbnail-kamran";
 
 createThumbnail({
   url: '<path to video file>',
